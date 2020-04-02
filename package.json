@@ -1,0 +1,29 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "This is a test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClotildeRossaro/D4DI-project-01.git"
+  },
+  "author": "Clotilde Rossaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClotildeRossaro/D4DI-project-01/issues"
+  },
+  "homepage": "https://github.com/ClotildeRossaro/D4DI-project-01#readme",
+  "keywords": [
+    "This",
+    "is",
+    "a",
+    "package",
+    "memo"
+  ],
+  "dependencies": {
+    "tippy.js": "^6.1.0"
+  }
+}
